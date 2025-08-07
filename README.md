@@ -60,11 +60,11 @@ pip install pyqt5 speechrecognition gtts pyttsx3 groq openai
 ✅ Make sure your microphone is working and Python is installed (preferably 3.8+).
 
 
-##▶️ Run the Assistant
+## ▶️ Run the Assistant
 python jarvis_main.py
 
 
-##📁 Project Structure
+## 📁 Project Structure
 
 
 Jarvis-AI-Desktop/
