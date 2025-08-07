@@ -71,63 +71,60 @@ python jarvis_main.py
 
 
 Jarvis-AI-Desktop/
-├── jarvis_main.py
+├── jarvis_main.py # Main script to run the application
 ├── gui/
-│   └── main_window.ui
+│ └── main_window.ui # PyQt5 GUI layout file
 ├── assets/
-│   ├── animation.gif
-│   └── icon.png
+│ ├── animation.gif # Animated assistant graphic
+│ └── icon.png # App icon
 ├── utils/
-│   ├── voice_handler.py
-│   └── ai_generator.py
-├── README.md
-└── requirements.txt
+│ ├── voice_handler.py # Handles voice input/output
+│ └── ai_generator.py # Integrates AI content generation via Groq API
+├── README.md # Project overview and documentation
+└── requirements.txt # List of Python dependencies
+
+
+## 🛡️ Security & Privacy  
+✅ **Voice commands are processed locally**  
+🚫 **No audio is stored or transmitted externally**  
+🧠 **AI queries are securely handled via Groq API**
+
+---
+
+## 🧩 Possible Future Features  
+- ✉️ **Email sending via voice**  
+- 🌦️ **Weather updates using OpenWeather API**  
+- 🗓️ **Calendar reminders with voice alerts**  
+- 🌍 **Multi-language support**  
+- 🧠 **Personalized command history & memory**
 
 
 
-## 🛡️ Security & Privacy
-✅ Voice commands are processed locally.
+## 🤝 Contribution
 
-🚫 No audio is stored or transmitted externally.
+Pull requests are welcome!  
+If you'd like to contribute, please **fork the repo** and submit a **Pull Request**.
 
-🧠 AI queries are securely handled via Groq API.
+For major changes, it's recommended to **open an issue first** to discuss what you'd like to change.
+
+Let's collaborate to make this project even better! 🚀
 
 
+## 📄 License
 
-## 🧩 Possible Future Features
- Email sending via voice
-
- Weather updates using OpenWeather API
-
- Calendar reminders with voice alerts
-
- Multi-language support
-
- Personalized command history & memory
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
 
 
 
-🤝 Contribution
-Pull requests are welcome! If you'd like to contribute, please fork the repo and submit a PR. For major changes, open an issue to discuss the feature first.
 
+## 🙋‍♀️ About the Creator  
+### **Aastha Yadav**  
+🎓 **B.Tech in Data Science & Machine Learning**  
+💼 **Aspiring Data Scientist | Python Developer | AI Enthusiast**  
+📫 **Connect with me on:**  
+🔗 [LinkedIn](https://www.linkedin.com/in/aastha-yadav-89b41a332)  
+💻 [GitHub](https://github.com/aastha-yadav2)
 
-
-📄 License
-This project is licensed under the MIT License.
-
-
-
-🙋‍♀️ About the Creator
-Aastha Yadav
-🎓 B.Tech in Data Science & Machine Learning
-💼 Aspiring Data Scientist | Python Developer | AI Enthusiast
-📫 Connect with me on:
-
-🔗 LinkedIn
-
-💻 GitHub
-
-📧 Email: yourname@example.com
 
 ⭐ If you like this project, give it a star on GitHub and share your feedback!
 
