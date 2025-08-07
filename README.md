@@ -69,7 +69,7 @@ python jarvis_main.py
 
 ## 📁 Project Structure
 
-
+```bash
 Jarvis-AI-Desktop/
 ├── jarvis_main.py # Main script to run the application
 ├── gui/
@@ -82,7 +82,7 @@ Jarvis-AI-Desktop/
 │ └── ai_generator.py # Integrates AI content generation via Groq API
 ├── README.md # Project overview and documentation
 └── requirements.txt # List of Python dependencies
-
+```
 
 ## 🛡️ Security & Privacy  
 ✅ **Voice commands are processed locally**  
