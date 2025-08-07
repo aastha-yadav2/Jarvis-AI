@@ -54,10 +54,13 @@ Jarvis is an AI-powered voice assistant designed for desktops, capable of execut
 
 Install required Python packages:
 ```bash
+
 pip install pyqt5 speechrecognition gtts pyttsx3 groq openai
 
 
-✅ Make sure your microphone is working and Python is installed (preferably 3.8+).
+
+
+ **✅ Make sure your microphone is working and Python is installed (preferably 3.8+).**
 
 
 ## ▶️ Run the Assistant
@@ -129,5 +132,4 @@ Aastha Yadav
 ⭐ If you like this project, give it a star on GitHub and share your feedback!
 
 
-```bash
-pip install pyqt5 speechrecognition gtts pyttsx3 groq openai
+
