@@ -53,7 +53,7 @@ Jarvis is an AI-powered voice assistant designed for desktops, capable of execut
 ### 🔧 Installation
 
 Install required Python packages:
-```bash
+
 
 pip install pyqt5 speechrecognition gtts pyttsx3 groq openai
 
@@ -85,7 +85,7 @@ Jarvis-AI-Desktop/
 
 
 
-🛡️ Security & Privacy
+## 🛡️ Security & Privacy
 ✅ Voice commands are processed locally.
 
 🚫 No audio is stored or transmitted externally.
@@ -94,7 +94,7 @@ Jarvis-AI-Desktop/
 
 
 
-🧩 Possible Future Features
+## 🧩 Possible Future Features
  Email sending via voice
 
  Weather updates using OpenWeather API
