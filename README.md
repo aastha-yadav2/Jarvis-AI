@@ -43,12 +43,9 @@ Jarvis is an AI-powered voice assistant designed for desktops, capable of execut
 > *(Optional – add images in the `/assets` folder and update the links below)*
 
 | GUI Interface | Voice Command in Action |
-|---------------|--------------------------|
-| ![GUI](<img width="1897" height="1063" alt="Screenshot 2025-08-13 125635" src="https://github.com/user-attachments/assets/291e54ca-35d3-46ac-a828-d1d192c8ebe1" />
-) | ![Command](<img width="1901" height="996" alt="Screenshot 2025-08-13 125702" src="https://github.com/user-attachments/assets/de0ac056-0f05-4081-93ee-5b7a3a27ca12" />
-) |
+|---------------|------------------------|
+| ![GUI Interface](https://github.com/user-attachments/assets/291e54ca-35d3-46ac-a828-d1d192c8ebe1) | ![Voice Command](https://github.com/user-attachments/assets/de0ac056-0f05-4081-93ee-5b7a3a27ca12) |
 
----
 
 ## 🚀 Getting Started
 
